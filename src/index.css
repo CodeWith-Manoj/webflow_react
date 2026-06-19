@@ -1,0 +1,17 @@
+.card-header-object{
+  font-size: 25px;
+ display: flex;
+ padding: 15px;
+ margin: 0;
+ width: fit-content;
+}
+.card-header-object:hover{
+   background-color: #0093cb;
+        box-shadow: rgba(69, 44, 133, 0.4) 0px 30px 90px;
+        color: aqua;
+        border-radius: 15px;
+}
+.header-container{
+  display: flex;
+  align-items: center;
+}
